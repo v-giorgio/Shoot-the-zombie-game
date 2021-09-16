@@ -1,5 +1,5 @@
 # SHOOT THE ZOMBIE 🧟
-- A standard game version of shooting the target based on JavaScript.
+- A standard game version of shooting the target based on JavaScript, HTML e CSS.
 
 ### GOAL
 
@@ -20,3 +20,8 @@
     - **Expert** 😓
  
  - They differ in terms of the ***amount of time required to survive the game*** and ***how fast the zombies appear and disappear*** on the screen.
+
+
+### EXTRA HELP
+
+- [https://getbootstrap.com/](Bootstrap 4.6)
